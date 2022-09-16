@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Carina Silvério 😀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carina-lorentino-silverio/)
-[![Whtasapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]("http://api.whatsapp.com/send?phone=5548999215378")
 
 ![Carina GitHub stats](https://github-readme-stats.vercel.app/api?username=carinalsilverio&show_icons=true&theme=dracula)
 
